@@ -26,9 +26,10 @@
 }
 
 .banner-section-bg-container {
-    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-image: url("https://res.cloudinary.com/srinivasvasamsetti/image/upload/v1744548145/bd4a9fitu9md1quaamz3.png");
     height: 100vh;
     background-size: cover;
+    background-position: center;
 }
 
 .banner-heading {
@@ -244,8 +245,18 @@
     padding-left: 22px;
 }
 
-.icon {
-    color: #d0b200;
+.twitter-icon {
+    color: #1DA1F2;
+    font-size: 35px;
+}
+
+.instagram-icon {
+    color: #E4405F;
+    font-size: 35px;
+}
+
+.facebook-icon {
+    color: #1877F2;
     font-size: 35px;
 }
 
